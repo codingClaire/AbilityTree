@@ -1,15 +1,14 @@
 # AbilityTree
-<br/>
+
 ## What is 'AbilityTree'?
 ### This is a personal tracker of what I have learn.I want to know what I have learn more accurately and clearly, therefore I start building my ability tree in github.
-<br/>
 ## What does it include?
 ### It includes 
 ### 1.My study mindmaps
 (百度脑图 http://naotu.baidu.com/)
 ### 2.Studying/reading Structures and Notes
 ### 3.Interesting Website Links(the following)
-<br/>
+
 # Content
 ## 0.Useful Tools for Coders
 ### 0.1 Sharing and Studying
